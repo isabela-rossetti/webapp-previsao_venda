@@ -4,3 +4,5 @@
 
 Para desenvolvimento do modelo foram usados dados fictícios uma empresa do setor financeiro que opera através de televendas para um de seus produtos.
 Tais dados foram disponibilizados na a 10ª Competição de Machine Learning da [FLAI](https://www.flai.com.br/).
+
+O aplicativo pode ser utilizado clicando [aqui](https://isabela-rossetti-webapp-previsao-venda-modelo-d3r69y.streamlit.app/).
