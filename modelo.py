@@ -69,7 +69,7 @@ st.markdown('---')
 
 st.markdown('## Executar o Modelo de Precificação') 
 
-if st.button('CALCULAR A PROPENSÃO'):
+if st.button('CALCULAR A PROVÁVEL RESPOSTA DO CLIENTE'):
 	st.markdown('---') 
 	saida_label = predict_model(modelo, dados)['Label']
 	saida_score = float(predict_model(modelo, dados)['Score']*100)
