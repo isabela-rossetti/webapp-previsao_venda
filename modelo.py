@@ -18,7 +18,7 @@ dados = ler_dados()
 
 
 st.write('''
-## Modelo criado para para prever se um produto será vendido ou não. 
+## Modelo criado para calcular a probabilidade de venda de um produto 
 
 ---
 Para desenvolvimento do modelo foram usados dados fictícios uma empresa do setor financeiro que opera através de televendas para um de seus produtos.
